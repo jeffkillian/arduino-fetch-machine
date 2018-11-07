@@ -1,4 +1,7 @@
-![Image of wiring](dog_fetcher_wiring.png "Simple Wiring Diagram")
+
+[Click to See video](https://www.instagram.com/p/BpQzOuyHv6P/)
+
+[![Sevi and the Machine](Sevi_and_machine.jpg "The machine" =250x)](https://www.instagram.com/p/BpQzOuyHv6P/)
 
 A simple ball fetch machine using an arduino.
 
@@ -8,3 +11,6 @@ A simple ball fetch machine using an arduino.
 4. Servo is triggered, allowing ball to continue through tube.
 5. Ball is redirected outward.
 6. Fetch complete.
+
+
+![Image of wiring](dog_fetcher_wiring.png "Simple Wiring Diagram")
