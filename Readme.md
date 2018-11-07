@@ -1,7 +1,7 @@
 
 [Click to See video](https://www.instagram.com/p/BpQzOuyHv6P/)
 
-[![Sevi and the Machine](Sevi_and_machine.jpg "The machine" =250x)](https://www.instagram.com/p/BpQzOuyHv6P/)
+[![Sevi and the Machine](Sevi_and_machine.jpg)](https://www.instagram.com/p/BpQzOuyHv6P/)
 
 A simple ball fetch machine using an arduino.
 
